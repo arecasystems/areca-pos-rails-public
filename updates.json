@@ -1,0 +1,14 @@
+{
+  "prod": {
+    "version": "0.0.14",
+    "forceUpdate": true
+  },
+  "alpha": {
+    "version": "0.0.14",
+    "forceUpdate": true
+  },
+  "test": {
+    "version": "0.0.14",
+    "forceUpdate": true
+  }
+}
