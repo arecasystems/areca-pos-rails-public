@@ -1,6 +1,6 @@
 {
   "prod": {
-    "version": "0.0.14",
+    "version": "0.0.22",
     "forceUpdate": true
   },
   "alpha": {
@@ -8,7 +8,7 @@
     "forceUpdate": true
   },
   "test": {
-    "version": "0.0.14",
+    "version": "0.0.22",
     "forceUpdate": true
   }
 }
