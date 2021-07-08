@@ -5,7 +5,7 @@
   },
   "alpha": {
     "version": "0.0.20",
-    "forceUpdate": false
+    "forceUpdate": true
   },
   "test": {
     "version": "0.0.14",
