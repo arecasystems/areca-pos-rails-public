@@ -1,10 +1,10 @@
 {
   "prod": {
-    "version": "0.0.40",
+    "version": "0.0.41",
     "forceUpdate": true
   },
   "alpha": {
-    "version": "0.0.40",
+    "version": "0.0.41",
     "forceUpdate": true
   },
   "test": {
